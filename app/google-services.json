@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648793884947",
+    "project_id": "ajaymedicalaar",
+    "storage_bucket": "ajaymedicalaar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648793884947:android:e9c73998f2a4f09edeb2e6",
+        "android_client_info": {
+          "package_name": "com.example.ar_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648793884947-4v0d2mlsn9bi1eup8tkredlu1o0v6rnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9yjKQxjdE0S1sNHPKJRkG2WcSYUlZKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648793884947-4v0d2mlsn9bi1eup8tkredlu1o0v6rnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
